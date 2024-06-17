@@ -9,10 +9,10 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
-source-git-commit: ed524113f3c17ccf013438a0faef4f940dc08bfe
+exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
+source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Efter: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_bla
 Som Senior Engineer och Customer Expert på Adobe Experience Cloud-produkter de senaste fem åren har jag gjort det möjligt för företagsanvändare på [Meijer](https://www.meijer.com/){target="_blank"}, en amerikansk supercenterkedja som grundades 1934, för att genomföra komplexa marknadsförings- och transaktionskampanjer med ACS. Några projekt som jag har arbetat med är anpassade kampanjer för att lagra erbjudanden och beställa information för personalisering, integrerade med Adobe Audience Manager, samt kundinsikter för segmentkonsumtion.
 
 
-Under min tid med ACS har jag råkat ut för fel som kan vara tidskrävande och frustrerande att lösa. Att veta de vanligaste felen kan bidra till snabbare problemlösning och öka produktiviteten. Här nedan hittar jag felsökningstips som hjälper dig att effektivt åtgärda liknande fel som de inträffar.
+Under min tid med ACS har jag råkat ut för fel, som kan vara tidskrävande och frustrerande att lösa. Att veta de vanligaste felen kan bidra till snabbare problemlösning och öka produktiviteten. Här nedan hittar jag felsökningstips som hjälper dig att effektivt åtgärda liknande fel som de inträffar.
 
 ## Felmatchningsfel för datatyp
 
@@ -32,7 +32,7 @@ Under min tid med ACS har jag råkat ut för fel som kan vara tidskrävande och 
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **Orsak:**
-Den här typen av fel visas i ett arbetsflöde när du försöker stämma av med fält av olika datatyper. Om du till exempel överför en fil med hjälp av en inläsningsfil som har ett strängfält, och du försöker att koppla strängfältet till ett profilfält som har datatypen int.
+Den här typen av fel visas i ett arbetsflöde när du försöker stämma av med fält av olika datatyper. Om du till exempel överför en fil med hjälp av inläsningsfilen, som har ett strängfält, och du försöker att koppla strängfältet till ett profilfält som har datatypen int.
 
 ![data-type-mismatch-error](/help/assets/kt-13256/data-type-mismatch.png)
 
@@ -53,13 +53,13 @@ Det här felet visas när du skickar ett e-postmeddelande till en adress, men e-
 ![arbetsflöde med avstämningsaktivitet](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Lösning:**
-Det måste finnas ett gemensamt ID från den inlästa filen med mottagartabellen. Den här gemensamma nyckeln kopplar inläsningsfilen till mottagartabellen inom avstämningsaktiviteten. E-postmeddelanden kan inte skickas till poster som inte finns i mottagarregistret, vilket kräver det här avstämningssteget i arbetsflödet. Då stämde du av den inkommande inläsningsfilaktiviteten med en identifierare som e-post-ID från profilen. The `nms:recipient` schemat refererar till profiltabellen och när inkommande poster stäms av mot profilen blir den tillgänglig under e-postförberedelsen.
+Det måste finnas ett gemensamt ID från den inlästa filen med mottagartabellen. Den här gemensamma nyckeln kopplar inläsningsfilen till mottagartabellen inom avstämningsaktiviteten. E-postmeddelanden kan inte skickas till poster som inte finns i mottagartabellen, vilket kräver det här avstämningssteget i arbetsflödet. Då stämde du av aktiviteten för inkommande inläsningsfil med en identifierare som e-post-ID:t från profilen. The `nms:recipient` schemat refererar till profiltabellen och när inkommande poster stäms av mot profilen blir den tillgänglig under e-postförberedelsen.
 
 Se skärmbilden för avstämningsaktiviteten som visas nedan.
 
 ![arbetsflöde med avstämningsdetaljer](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-Läs mer om [avstämning](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
+Läs mer om [avstämning](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Fel i datamängd för gemensamt fält
 

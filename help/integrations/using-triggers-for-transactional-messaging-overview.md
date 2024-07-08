@@ -11,9 +11,9 @@ team: TM
 hidefromtoc: false
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ I följande självstudier får du lära dig hur du konfigurerar och använder ut
 Innan du kan använda en utlösare i ett transaktionsmeddelande måste du:
 
 1. [Konfigurera Adobe Experience Platforms datasamling för utlösare](/help/integrations/configure-launch-for-triggers.md)
-2. [Skapa en utlösare i Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/triggers)
+2. [Skapa en utlösare i Experience Cloud](https://experienceleague.adobe.com/sv/docs/core-services/interface/triggers)
 3. [Skapa en utlösarhändelse i Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
-När utlösaren har konfigurerats kan du [konfigurera transaktionsmeddelanden med händelsedata i realtid](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).
+När utlösaren har konfigurerats kan du [konfigurera transaktionsmeddelanden med realtidshändelsedata](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).

@@ -13,7 +13,7 @@ exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 20%
+ht-degree: 23%
 
 ---
 
@@ -23,4 +23,4 @@ Du kan skapa ett e-postmeddelande från en kampanj, från Adobe Campaign hemsida
 
 Lär dig hur du skapar och skickar e-postmeddelanden via ett arbetsflöde.
 
->[!VIDEO](https://video.tv.adobe.com/v/31465?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31465?learn=on){transcript=true}

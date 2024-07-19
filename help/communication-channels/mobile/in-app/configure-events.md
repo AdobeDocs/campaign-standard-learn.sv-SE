@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 8%
 
 Förstå vilken användarinitierad åtgärd som utlöser ett meddelande i appen och lär dig hur du konfigurerar dessa händelser.
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){transcript=true}

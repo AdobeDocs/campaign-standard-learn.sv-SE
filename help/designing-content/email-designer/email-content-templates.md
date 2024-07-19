@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 14%
+source-wordcount: '72'
+ht-degree: 16%
 
 ---
 
@@ -23,4 +23,4 @@ Adobe Campaign Standard erbjuder 18 fullt anpassningsbara mallar för responsiv 
 
 I den här videon visas mallarna och hur du skapar en egen mall.
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}

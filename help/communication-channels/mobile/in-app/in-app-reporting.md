@@ -13,12 +13,12 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
-# Rapportera om dina [!UICONTROL In-App] leverans {#in-app-message-reporting}
+# Rapportera om din [!UICONTROL In-App]-leverans {#in-app-message-reporting}
 
 Lär dig hur du kan ge användaren sammanhangsberoende meddelanden i appen som svar på en kunds realtidsbeteende i mobilappen.
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}

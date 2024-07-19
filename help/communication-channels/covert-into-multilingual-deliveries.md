@@ -12,8 +12,8 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 27%
+source-wordcount: '71'
+ht-degree: 33%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 27%
 
 I den här videon visas hur ett befintligt e-postmeddelande, en SMS-leverans eller en leveransmall enkelt kan konverteras till flerspråkiga dokument.
 
->[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-Mer information om [skapa flerspråkig e-post](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+Mer information om att [skapa ett flerspråkigt e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en) finns i produktdokumentationen.

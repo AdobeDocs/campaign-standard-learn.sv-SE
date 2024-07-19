@@ -1,6 +1,6 @@
 ---
-title: Maximera e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter
-description: Lär dig hur du maximerar e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter. Upptäck strategierna för att förbättra dina prenumeranters engagemang och förstå den övergripande framgången för dina e-postkampanjer.
+title: Maximera avkastningen på e-postmarknadsföringen och lär dig de bästa sätten att återengagera prenumeranter
+description: Lär dig hur du maximerar avkastningen på e-postmarknadsföring och lär dig de bästa sätten att återengagera prenumeranter. Upptäck strategierna för att förbättra era abonnenters engagemang och förstå hur väl era e-postkampanjer fungerar i stort.
 solution: Campaign
 role: User
 level: Beginner
@@ -8,8 +8,8 @@ feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
 source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
 workflow-type: tm+mt
-source-wordcount: '1471'
-ht-degree: 2%
+source-wordcount: '1475'
+ht-degree: 0%
 
 ---
 
@@ -118,26 +118,26 @@ För användare med fördröjd och inaktiv information bör du överväga vilket
 
 Dela upp processen i två fokusområden: a) skicka mönster för e-post och b) det kreativa innehållet i själva e-postmeddelandena. Här följer en mer detaljerad beskrivning av de olika områdena:
 
-**Uppdatera sändningsmönster och tidsplaner**
+**Uppdatera dina sändande mönster och scheman**
 
-* **Starta långsamt** Det är en maraton, inte en sprint. Det är inte en lösning man kan implementera på en dag. Överväg att börja med en liten andel av er målgrupp, 4-5 % eller så, och övervaka prestandan noga.
+* **Starta långsamt** - Det är ett maraton, inte en fjäder. Det är inte en lösning man kan implementera på en dag. Överväg att börja med en liten andel av er målgrupp, 4-5 % eller så, och övervaka prestandan noga.
 
-* **Tänk på varumärkesrykte** - Säkerställ att e-posttrafiken till inaktiva segment inte orsakar några problem med anseendet.
+* **Fundera på varumärkesrykte** - Kontrollera att e-posttrafik till inaktiva segment inte orsakar några problem med anseende.
 
 * **Automatisera arbetsflöden** - Håll listorna rena och snygga.
 
-* **Tryckregler** - Uteslut prenumeranter i programmet för återengagemang från att ta emot andra e-postmeddelanden.
+* **Tryckregler** - Uteslut prenumeranter i återengagemangsprogrammet från att ta emot andra e-postmeddelanden.
 
-**Kreativt innehåll**
+**Kreativt innehåll och innehåll**
 
-* **Erbjud en tydlig OPT-IN/OPT-OUT** - Gör det enkelt för användarna att snabbt bestämma om de vill höra din åsikt eller inte. Ni kan belönas med ett deltagande som tar hänsyn till deras behov först, i stället för att fokusera på företagets behov.
+* **Erbjud en tydlig OPT-IN/OPT-OUT** - Gör det enkelt för användarna att snabbt bestämma sig för om de vill höra din åsikt eller inte. Ni kan belönas med ett deltagande som tar hänsyn till deras behov först, i stället för att fokusera på företagets behov.
 
-* **Skapa ett inställningscenter** - Det här är en chans att ge era prenumeranter ytterligare kontroll, så att de kan välja bland olika e-postinnehåll som nyhetsbrev, kampanjerbjudanden, event och så vidare, samt olika regelbundenhet. Kom ihåg att om ni bestämmer er för att erbjuda detta måste ni se till att ni kan följa igenom och segmentera målgruppen på rätt sätt för att uppfylla dessa önskemål.
+* **Skapa ett inställningscenter** - Det här är en chans att ge dina prenumeranter ytterligare kontroll, så att de kan välja mellan olika e-postinnehåll som nyhetsbrev, kampanjerbjudanden, evenemang och så vidare, samt olika regelbundenhet. Kom ihåg att om ni bestämmer er för att erbjuda detta måste ni se till att ni kan följa igenom och segmentera målgruppen på rätt sätt för att uppfylla dessa önskemål.
 
 * **Starka ämnesrader** - Se till att de sticker ut från annat varumärkesinnehåll
 
-* **Testa och lära** - en bra testplan är viktig för att säkerställa att dina insatser får önskad effekt. Lär dig vad som fungerar och vad som inte fungerar och iterera därefter.
+* **Testa och lär** - en bra testplan är viktig för att se till att dina insatser får önskad effekt. Lär dig vad som fungerar och vad som inte fungerar och iterera därefter.
 
-Om du vill se en sammanfattning av denna artikel och en live demo av hur ni implementerar strategier för återengagemang kan du titta på vår [webbinarium](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+Titta på vårt [webbinarium](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/) om du vill se en sammanfattning av den här artikeln och en live demonstration av implementering av strategier för återengagemang.
 
-Läs mer om strategi och tankeledarskap på [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) nav.
+Läs mer om strategi och tankeledarskap på navet [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).

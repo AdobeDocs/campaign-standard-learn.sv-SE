@@ -1,5 +1,5 @@
 ---
-title: Konfigurera mobilvyn i e-postdesignern
+title: Konfigurera mobilvyn i e-post-Designer
 description: "Lär dig finjustera e-postens responsiva design genom att redigera alla stilalternativ separat för mobildisplayer."
 feature: Email Design
 jira: KT-2423
@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 I den här videon förklaras hur du kan finjustera den responsiva designen för ett e-postmeddelande genom att redigera alla stilalternativ separat för mobildisplayer.
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}

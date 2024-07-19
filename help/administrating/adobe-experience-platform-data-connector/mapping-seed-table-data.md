@@ -12,8 +12,8 @@ team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 7%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 7%
 
 Lär dig hur du mappar startdata och testprofiler med Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){transcript=true}
 
-Mer information om [mappningsdefinition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) och [mappningsaktivering](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+Mer information om [mappningsdefinitionen](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) och [mappningsaktiveringen](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html) finns i produktdokumentationen.

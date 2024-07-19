@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 17%
+ht-degree: 21%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 17%
 
 Du kan samla in data från en fil för att bearbeta den och/eller importera den till Adobe Campaign-databasen.
 
-I den här videon förklaras hur du använder [!UICONTROL Data Management] aktiviteter i ett arbetsflöde för att importera profildata.
+I den här videon förklaras hur du använder [!UICONTROL Data Management]-aktiviteterna i ett arbetsflöde för att importera profildata.
 
->[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}

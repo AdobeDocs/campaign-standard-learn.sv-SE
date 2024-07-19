@@ -1,6 +1,6 @@
 ---
 title: Arbeta med befintligt innehåll
-description: Lär dig hur du hämtar ditt kreativa innehåll från en webbplats och läser in det i e-postdesignern.
+description: Lär dig hur du hämtar ditt kreativa innehåll från en webbplats och läser in det i e-postprogrammet Designer.
 feature: Email Design
 jira: KT-6295
 thumbnail: 25926.jpg
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 7%
 
 ## Importera innehåll från en URL
 
-Lär dig hur du hämtar ditt kreativa innehåll från en webbplats och läser in det i e-postdesignern.
+Lär dig hur du hämtar ditt kreativa innehåll från en webbplats och läser in det i e-postprogrammet Designer.
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
 
 ## Göra befintligt HTML-innehåll kompatibelt {#making-existing-html-content-compatible}
 
-E-postdesignern kräver specifik taggning, som måste användas för att standardinnehåll i HTML som överförs till Adobe Campaign ska vara helt kompatibelt och redigerbart.
+För e-post-Designer krävs specifik taggning, som måste användas för att standardinnehåll i HTML som överförs till Adobe Campaign ska vara helt kompatibelt och redigerbart.
 
 Du hittar detaljerad dokumentation under följande länk:
 
-[Konvertera HTML-innehåll till en e-postdesignermall](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Konverterar HTML-innehåll till en Designer-mall för e-post](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

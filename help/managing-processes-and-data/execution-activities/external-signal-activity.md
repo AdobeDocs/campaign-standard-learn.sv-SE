@@ -13,15 +13,15 @@ level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # [!UICONTROL External Signal activity] - Anropa ett arbetsflöde med parametrar
 
-The [!UICONTROL External Signal activity] används för att organisera och samordna olika processer som ingår i samma kundresa till olika arbetsflöden. Den här aktiviteten kan starta ett arbetsflöde från ett annat. The [!UICONTROL External Signal activity] kan anropa ett arbetsflöde och skicka parametrar som målgruppsnamn, filnamn som ska importeras eller en del av meddelandeinnehållet från ett arbetsflöde till ett annat. Det kan också anropa en REST API för integrering med externa system, som ett innehållshanteringssystem. Med **Testa** kan tester köras på den här funktionen.
+[!UICONTROL External Signal activity] används för att ordna och organisera olika processer som ingår i samma kundresa till olika arbetsflöden. Den här aktiviteten kan starta ett arbetsflöde från ett annat. [!UICONTROL External Signal activity] kan anropa ett arbetsflöde och skicka parametrar, som målgruppsnamn, ett filnamn som ska importeras eller en del av meddelandeinnehållet, från ett arbetsflöde till ett annat. Det kan också anropa en REST API för integrering med externa system, som ett innehållshanteringssystem. Med aktiviteten **Test** kan tester köras på den här funktionen.
 
-Lär dig konfigurera [!UICONTROL External Signal activity] för att ta emot parametrar** från ett externt system, anpassa ett arbetsflöde med externa parametrar och konfigurera en slutaktivitet för att anropa ett arbetsflöde med externa parametrar
+Lär dig hur du konfigurerar [!UICONTROL External Signal activity] för att ta emot parametrar** från ett externt system, anpassar ett arbetsflöde med externa parametrar och konfigurerar en slutaktivitet för att anropa ett arbetsflöde med externa parametrar
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}

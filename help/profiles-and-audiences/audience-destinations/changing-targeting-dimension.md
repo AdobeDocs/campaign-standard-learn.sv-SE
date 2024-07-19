@@ -15,18 +15,18 @@ hidefromtoc: true
 source-git-commit: 563f4440b1d9454a1976b4ba7594d8a550814de1
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 8%
+ht-degree: 6%
 
 ---
 
-# Ändra målet för målinriktningen [!UICONTROL Platform Audience]
+# Ändra måldimensionen [!UICONTROL Platform Audience]
 
 >[!NOTE]
 >
->Funktionen är i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] är baserat på Adobe Experience Platform och kräver en specifik konfiguration.
+>Funktionen är i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] baseras på Adobe Experience Platform och kräver en specifik konfiguration.
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
-I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans för [!UICONTROL Platform Audience] utanför den primära profiltabellen i Adobe Campaign Standard.
+I den här videon förklaras hur du ändrar måldimensionen för en leverans för en [!UICONTROL Platform Audience] utanför den primära profiltabellen i Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}

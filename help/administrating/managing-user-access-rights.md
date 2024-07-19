@@ -13,7 +13,7 @@ exl-id: 22c05c17-a085-4376-9d06-cbb9d5249608
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 17%
+ht-degree: 21%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 17%
 
 I den här videon förklaras hur du definierar och hanterar behörigheter som tilldelats olika användare i Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/24671?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24671?learn=on){transcript=true}

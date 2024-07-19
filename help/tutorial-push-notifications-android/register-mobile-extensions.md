@@ -11,8 +11,8 @@ team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 13%
+source-wordcount: '110'
+ht-degree: 14%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 13%
 
 I den här delen lägger vi till koden för att registrera tilläggen Användarprofil, Identitet, Livscykel och Signal. Vi måste också registrera Adobe Campaign Standard-tillägget enligt koden nedan.
 
-Öppna projektet i [!DNL Android] studio. Ta bort hela koden i MainApp **förutom den första raden som är programsatsen package**.
+Öppna ditt projekt i [!DNL Android] studio. Ta bort hela koden i MainApp **förutom den första raden som är din paketsats**.
 
 Klistra in följande kod i MainApp
 
@@ -70,6 +70,6 @@ try{
 }
 ```
 
-Rad 32 måste du ange[!UICONTROL  Launch] Egenskapens miljöfil-ID. Du kommer åt detta via [!UICONTROL environment tab] på [!UICONTROL Launch] -egenskap.
+Rad 32 måste du ange [!UICONTROL  Launch]-egenskapens miljöfil-ID. Den här informationen kan nås från [!UICONTROL environment tab] för din [!UICONTROL Launch]-egenskap.
 
 ![launch-id](assets/launch-id-property.PNG)

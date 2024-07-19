@@ -13,7 +13,7 @@ level: Intermediate, Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -23,4 +23,4 @@ Med Adobe Campaign kan ni förenkla hanteringen av flerspråkiga kampanjer. Båd
 
 I den här videon förklaras hur du skapar en flerspråkig leverans baserad på en mall i ett e-postnyhetsbrev. Det tillvägagångssätt som visas i videoklippen gäller både e-post och SMS-leveranser.
 
->[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}

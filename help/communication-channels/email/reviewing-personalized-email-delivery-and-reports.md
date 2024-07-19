@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 22%
+ht-degree: 25%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 22%
 
 I den här videon förklaras hur du granskar en anpassad e-postleverans och utforskar olika rapporter som finns i Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/21389?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/21389?learn=on){transcript=true}

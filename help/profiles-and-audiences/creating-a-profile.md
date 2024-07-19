@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 7%
+ht-degree: 13%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 7%
 
 I den här videon förklaras hur du skapar en profil och hur du lägger till den till en publik.
 
->[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){transcript=true}

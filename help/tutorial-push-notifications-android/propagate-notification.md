@@ -11,22 +11,22 @@ team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 source-git-commit: 200dcb4d6698c174f7fde508779609b11043d031
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 1%
+source-wordcount: '155'
+ht-degree: 2%
 
 ---
 
 # Lägg till tjänst för att skicka meddelande
 
-I det här avsnittet kommer vi att sprida meddelandet som vi fått från Adobe Campaign med [!DNL Android Notification Manager]. [!DNL Notification manager] används för att meddela användaren om händelser som inträffar.
+I den här delen kommer vi att sprida meddelandet som vi fått från Adobe Campaign med [!DNL Android Notification Manager]. [!DNL Notification manager] används för att meddela användaren om händelser som inträffar.
 Så här säger du till användaren att något har hänt i bakgrunden:
 
 * Starta [!DNL Android Studio]
-* Öppna *[!DNL ACSPushTutorial]* projekt
+* Öppna *[!DNL ACSPushTutorial]*-projekt
 * Utöka projektstrukturen
 * Högerklicka på paketmappen ([!DNL com.example.acspushtutorial]) och [!DNL New ->Java Class]
-* Ge klassen ett namn *[!DNL MyService]* och se till att den utökas [!DNL FirebaseMessagingService]
-* Skapa *[!DNL sendNotification]* i den här klassen. I den här metoden måste du ange meddelandets innehåll och kanal med en [!DNL NotificationCompat.Builder] -objekt. Om du vill att meddelandet ska visas ringer du [!DNL NotificationManagerCompat.notify()], skickar det ett unikt ID för meddelandet och resultatet av [!DNL NotificationCompat.Builder.build()].
+* Ge den här klassen namnet *[!DNL MyService]* och kontrollera att den utökar [!DNL FirebaseMessagingService]
+* Skapa metoden *[!DNL sendNotification]* i den här klassen. I den här metoden måste du ange meddelandets innehåll och kanal med ett [!DNL NotificationCompat.Builder]-objekt. Om du vill att meddelandet ska visas anropar du [!DNL NotificationManagerCompat.notify()] och skickar det ett unikt ID för meddelandet och resultatet av [!DNL NotificationCompat.Builder.build()].
 
 <!--
 Removed `{.line-numbers}` below
@@ -95,7 +95,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## Ändra [!DNL AndroidManifest.xml]
 
-Lägg till tjänsten som skapades i [!DNL AndroidManifest.xml]. Den slutliga [!DNL AndroidManifest.xml] ska se ut så här:
+Lägg till tjänsten som skapades i din [!DNL AndroidManifest.xml]. Den sista [!DNL AndroidManifest.xml] ska se ut så här:
 
 <!--
 Removed `{.line-numbers}` below
@@ -139,4 +139,4 @@ Removed `{.line-numbers}` below
 
 ## Kör programmet
 
-Kör programmet genom att klicka på **grön pil** i verktygsfältet eller från [!DNL Run] -menyn.
+Kör programmet genom att klicka på den **gröna pilen** i verktygsfältet eller på menyn [!DNL Run] .

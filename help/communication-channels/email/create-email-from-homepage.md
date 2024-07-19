@@ -13,14 +13,14 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 44%
+ht-degree: 47%
 
 ---
 
 # Skapa en e-postleverans {#create-an-email-delivery}
 
-Du kan skapa en fristående e-postleverans från en kampanj, från Adobe Campaign hemsida eller i [!UICONTROL Marketing Activity] lista. Du kan också skapa och skicka enstaka och återkommande e-postmeddelanden från ett arbetsflöde.
+Du kan skapa en fristående e-postleverans från en kampanj, från Adobe Campaign hemsida eller i listan [!UICONTROL Marketing Activity]. Du kan också skapa och skicka enstaka och återkommande e-postmeddelanden från ett arbetsflöde.
 
 Lär dig hur du skapar en e-postleverans från hemsidan.
 
->[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){transcript=true}

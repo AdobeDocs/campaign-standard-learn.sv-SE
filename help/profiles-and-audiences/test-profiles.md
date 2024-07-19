@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 26%
+ht-degree: 29%
 
 ---
 
@@ -23,4 +23,4 @@ Med testprofilerna kan du rikta in dig på fler mottagare som inte matchar de de
 
 I den här videon förklaras hur du skapar testprofiler
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24094?learn=on){transcript=true}

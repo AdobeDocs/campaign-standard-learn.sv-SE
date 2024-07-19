@@ -13,20 +13,20 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
 # Skapa en [!UICONTROL push notification]
 
-Lär dig skapa en [!UICONTROL push notification] i Adobe Campaign Standard (ACS):
+Lär dig hur du skapar en [!UICONTROL push notification] i Adobe Campaign Standard (ACS):
 
-Med Adobe Campaign kan ni skicka personaliserade och segmenterade [!UICONTROL push notifications] till mobila enheter från iOS och Android™. Du har två alternativ:
+Med Adobe Campaign kan du skicka anpassade och segmenterade [!UICONTROL push notifications] till mobila enheter i iOS och Android™. Du har två alternativ:
 
-* **[!UICONTROL Send push notification to Campaign profiles]**: Gör att du kan rikta dig mot de Adobe Campaign CRM-profiler som har prenumererat på ditt mobilprogram och som har valt att ta emot [!UICONTROL push notifications]. Du kan infoga anpassningsfält i dina [!UICONTROL push notification], till exempel mottagarens förnamn.
+* **[!UICONTROL Send push notification to Campaign profiles]**: Gör att du kan rikta dig mot de Adobe Campaign CRM-profiler som har prenumererat på ditt mobilprogram och har valt att ta emot [!UICONTROL push notifications]. Du kan infoga anpassningsfält i [!UICONTROL push notification], t.ex. mottagarens förnamn.
 
-* **[!UICONTROL Send push notification to app subscribers]**: Skicka en [!UICONTROL push notification] till alla kända och anonyma användare av mobilappar som har valt att ta emot meddelanden från programmet. Ni kan personalisera dessa meddelanden med data som samlats in från ert mobilprogram.
+* **[!UICONTROL Send push notification to app subscribers]**: Gör att du kan skicka en [!UICONTROL push notification] till alla kända och anonyma mobilprogramanvändare som har valt att ta emot meddelanden från ditt program. Ni kan personalisera dessa meddelanden med data som samlats in från ert mobilprogram.
 
 I videon beskrivs hur du skickar en [!DNL push notification to app subscribers].
 
->[!VIDEO](https://video.tv.adobe.com/v/31499?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31499?learn=on){transcript=true}

@@ -13,7 +13,7 @@ level: Intermediate, Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Med [!DNL Adobe Campaign Standard] kan du skapa en [!UICONTROL control group] so
 
 Lär dig hur du definierar en [!UICONTROL control group] för dina [!UICONTROL delivery]-profiler och hur du extraherar de profiler som har tilldelats till [!UICONTROL control group] efter att [!UICONTROL delivery]-formuläret har skickats.
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40684?learn=on){transcript=true}

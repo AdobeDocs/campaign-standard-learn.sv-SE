@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 16%
+source-wordcount: '78'
+ht-degree: 20%
 
 ---
 
@@ -23,6 +23,6 @@ När ni har skapat ett arbetsflöde och filtrerat er population till olika målg
 
 Lär dig hur du definierar segment i ditt arbetsflöde och hur du använder dem i dynamiska rapporter.
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

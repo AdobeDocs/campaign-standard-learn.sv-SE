@@ -14,23 +14,23 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '118'
+ht-degree: 8%
 
 ---
 
-# Aktivera Adobe Experience Platform-målgrupper i ett arbetsflöde [!UICONTROL Adobe Experience Platform Audiences] i ett marknadsflöde
+# Aktivera Adobe Experience Platform-målgrupper i ett arbetsflöde [!UICONTROL Adobe Experience Platform Audiences] i ett marknadsföringsarbetsflöde
 
 >[!NOTE]
 >
->Funktionen är i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] är baserat på Adobe Experience Platform och kräver en specifik konfiguration.
+>Funktionen är i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] baseras på Adobe Experience Platform och kräver en specifik konfiguration.
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
-I den här videon förklaras hur du aktiverar [!UICONTROL Data Services Query Audience] i ett arbetsflöde genom att använda [!UICONTROL Read Audience] aktivitet.
+I den här videon förklaras hur du aktiverar [!UICONTROL Data Services Query Audience] i ett arbetsflöde genom att använda aktiviteten [!UICONTROL Read Audience].
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
 *Aktivera en Adobe Experience Platform-målgrupp i ett arbetsflöde (02:37 min)*
 
-Läs produktdokumentationen om hur du [få in Adobe Experience Platform målgrupper i Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+Läs produktdokumentationen om hur du [importerar Adobe Experience Platform-målgrupper till Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)

@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 36%
+ht-degree: 39%
 
 ---
 
@@ -24,8 +24,8 @@ Adobe Campaign har två typer eller profiler:
 * Identifierade profiler
 * Testprofiler
 
-Profiler som är grupperade enligt ett eller flera gemensamma villkor anropas **målgrupper**.
+Profiler som grupperas enligt ett eller flera gemensamma kriterier kallas **målgrupper**.
 
 I den här videon förklaras hur du navigerar till befintliga profiler och hur du skapar profiler och målgrupper i Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){transcript=true}

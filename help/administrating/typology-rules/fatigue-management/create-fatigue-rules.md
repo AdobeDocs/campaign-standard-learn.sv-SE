@@ -12,19 +12,19 @@ team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 24%
+source-wordcount: '88'
+ht-degree: 28%
 
 ---
 
 # Skapa [!UICONTROL fatigue rules]
 
-[!UICONTROL Fatigue rules] gör det möjligt för marknadsförare att ange globala affärsregler för flera kanaler som automatiskt utesluter överbegärda profiler från kampanjer.
-Skapa [!UICONTROL fatigue rules]måste du definiera ett maximalt antal meddelanden per profil och välja en period som regeln ska gälla för. Vid leveransförberedelsen exkluderas profiler från leveransen, om tillämpligt, beroende på hur många meddelanden som redan har skickats till dem.
+[!UICONTROL Fatigue rules] tillåter marknadsförare att ange globala affärsregler för flera kanaler som automatiskt exkluderar överbegärda profiler från kampanjer.
+Om du vill skapa [!UICONTROL fatigue rules] måste du definiera ett maximalt antal meddelanden per profil och välja en period som regeln ska gälla för. Vid leveransförberedelsen exkluderas profiler från leveransen, om tillämpligt, beroende på hur många meddelanden som redan har skickats till dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/28450?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/28450?learn=on){transcript=true}
 
-*Skapa en [!UICONTROL fatigue rule] (04:49 min)*
+*Så här skapar du en [!UICONTROL fatigue rule] (04:49 min)*
 
 ## Ytterligare resurser
 

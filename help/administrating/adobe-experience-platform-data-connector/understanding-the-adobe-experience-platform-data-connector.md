@@ -12,8 +12,8 @@ team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 4%
+source-wordcount: '271'
+ht-degree: 5%
 
 ---
 
@@ -27,21 +27,21 @@ ht-degree: 4%
 
 ## Översikt
 
-Adobe Experience Platform [!UICONTROL Data Connector] hjälper befintliga kunder att göra sina data tillgängliga på Adobe Experience Platform genom att mappa XTK-data (data som hämtas i Adobe Campaign) till [!DNL Experience Data Model] (XDM) på Adobe Experience Platform.
+Adobe Experience Platform [!UICONTROL Data Connector] hjälper befintliga kunder att göra sina data tillgängliga på Adobe Experience Platform genom att mappa XTK-data (data som importerats i Adobe Campaign) till [!DNL Experience Data Model] (XDM)-data på Adobe Experience Platform.
 
 Kopplingen är enkelriktad och skickar data från Adobe Campaign Standard till Adobe Experience Platform. Data skickas aldrig från Adobe Experience Platform till Adobe Campaign Standard.
 
-Adobe Experience Platform [!UICONTROL Data Connector] är avsett för datatekniker som förstår Adobe Campaign Standard [!UICONTROL custom resources] och ha en förståelse för hur kundens övergripande dataschema ska vara inuti Adobe Experience Platform.
+Adobe Experience Platform [!UICONTROL Data Connector] är avsett för datatekniker som förstår Adobe Campaign Standard [!UICONTROL custom resources] och har en förståelse för hur kundens övergripande dataschema ska vara inuti Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27304?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27304?learn=on){transcript=true}
 
 *Den här videon ger en översikt över Adobe Experience Platform [!UICONTROL Data Connector] (09:35 min)*
 
 >[!NOTE]
 >
->Enkel överföring av [!UICONTROL subscription events] stöds inte. Till överföring [!UICONTROL subscription events]kan du skapa motsvarande XDM och datauppsättning på Adobe Experience Platform och sedan konfigurera en anpassad datamappning för dessa data.
+>Det går inte att överföra [!UICONTROL subscription events] direkt. Om du vill överföra [!UICONTROL subscription events] kan du skapa motsvarande XDM och datauppsättning på Adobe Experience Platform och sedan konfigurera en anpassad datamappning för dessa data.
 >
->Befintlig [!UICONTROL experience events] kan inte importeras till Adobe Experience Platform, men pågående generering [!UICONTROL experience events] strömmas till Adobe Experience Platform.
+>Befintliga [!UICONTROL experience events] kan inte importeras till Adobe Experience Platform, men pågående genererade [!UICONTROL experience events] direktuppspelas till Adobe Experience Platform.
 
 ## Viktiga steg för datamappning
 

@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 66%
+source-wordcount: '153'
+ht-degree: 57%
 
 ---
 
@@ -31,8 +31,8 @@ Med integreringen mellan Adobe Campaign Standard och Adobe Dreamweaver kan du re
 
 I videon förklaras vad som krävs för att aktivera integrering med Dreamweaver och hur du skapar och redigerar innehåll för Adobe Campaign Standard med Dreamweaver.
 
->[!VIDEO](https://video.tv.adobe.com/v/23121?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23121?learn=on){transcript=true}
 
-*Så här använder du integreringen mellan Dreamweaver och Adobe Campaign (02:37 min)*
+*Så här använder du Dreamweaver-integreringen i Adobe Campaign (02:37 min)*
 
-Se Dreamweaver [Adobe Dreamweaver Documentation](https://helpx.adobe.com/se/dreamweaver/using/working-with-dreamweaver-and-campaign.html) för information om [Felsöka installationen av Adobe Campaign Dreamweaver](https://helpx.adobe.com/se/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+Mer information om [Felsökning av installationen av Adobe Campaign Dreamweaver](https://helpx.adobe.com/se/dreamweaver/kb/dreamweaver-campaign-integration-issue.html) finns i Dreamweaver [Adobe Dreamweaver Documentation](https://helpx.adobe.com/se/dreamweaver/using/working-with-dreamweaver-and-campaign.html) .

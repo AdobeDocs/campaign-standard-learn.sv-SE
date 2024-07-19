@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 31%
+ht-degree: 37%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 31%
 
 Lär dig hur du skapar ett flerspråkigt push-meddelande i Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23304?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23304?learn=on){transcript=true}

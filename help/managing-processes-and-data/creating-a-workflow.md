@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 6%
+source-wordcount: '83'
+ht-degree: 9%
 
 ---
 
@@ -28,6 +28,6 @@ Arbetsflöden kan användas i olika sammanhang, till exempel:
 
 I den här videon visas hur du skapar och redigerar ett arbetsflöde i Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
 
-Mer information om [Skapa ett arbetsflöde (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+Mer information om [Skapa ett arbetsflöde (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html) finns i produktdokumentationen

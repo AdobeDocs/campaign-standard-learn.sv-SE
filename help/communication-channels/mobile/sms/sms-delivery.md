@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 20%
+ht-degree: 22%
 
 ---
 
@@ -23,4 +23,4 @@ Lär dig hur du skapar en SMS-leverans i Adobe Campaign Standard. Du kan också 
 
 SMS-leveransaktiviteten används för att automatisera SMS-utskick. Konfigurationen för den här aktiviteten är densamma som konfigurationen för den engångsleverans som beskrivs i videon.
 
->[!VIDEO](https://video.tv.adobe.com/v/25265/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25265/?learn=on){transcript=true}

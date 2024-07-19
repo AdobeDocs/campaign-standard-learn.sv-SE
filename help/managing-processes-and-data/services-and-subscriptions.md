@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 43%
+ht-degree: 22%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 43%
 
 Med Adobe Campaign kan ni skapa och hantera nyhetsbrev och kommunikation över flera kanaler via en uppsättning tjänster. Meddelanden kan bara skickas till profiler som prenumererar på tjänsten (anmälan). Dessa profiler identifieras med ett dedikerat filter vid skapandet av ett meddelande.
 
-Prenumerationsfunktioner kan konfigureras för att ge kunderna möjligheten att prenumerera på dessa tjänster via e-post och landningssidor.
+Prenumerationsfunktioner kan konfigureras för att ge kunderna möjlighet att prenumerera på dessa tjänster, särskilt via e-post och landningssidor.
 
 Varje tjänst levereras med:
 
@@ -31,4 +31,4 @@ Varje tjänst levereras med:
 
 I den här videon visas hur du skapar en tjänst och hanterar dess prenumerationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}

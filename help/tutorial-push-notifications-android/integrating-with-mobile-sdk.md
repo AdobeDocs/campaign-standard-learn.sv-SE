@@ -1,6 +1,6 @@
 ---
 title: Steg 2 – integrera en mobil SDK
-description: I den här delen kommer vi att integrera Android-appen med Mobile SDK. Integrera mobil-SDK med Android-appen
+description: I den här delen kommer vi att integrera Android-appen med Mobile SDK. Integrera mobil SDK med Android-appen
 feature: Push
 user: Admin
 level: Experienced
@@ -12,22 +12,22 @@ recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
 source-git-commit: 913d2c08dc63e2073b3abd1de6b6b16711d817da
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 3%
 
 ---
 
-# STEG 2 - Integrera [!UICONTROL Mobile SDK] med Android-app
+# STEG 2 - Integrera [!UICONTROL Mobile SDK] med Android App
 
-I den här delen kommer vi att integrera [!DNL Android] app med [!UICONTROL Mobile SDK]. Integrera [!UICONTROL mobile SDK] med [!DNL Android] app, följ följande steg:
+I den här delen integrerar vi appen [!DNL Android] med [!UICONTROL Mobile SDK]. Följ de här stegen för att integrera [!UICONTROL mobile SDK] med appen [!DNL Android]:
 
-* Öppna *ACSPushTutorial* projekt i [!DNL Android Studio]
-* Skapa en ny java-klass som kallas *MainApp* som utökar [!DNL android.app.Application]
+* Öppna *ACSPushTutorial* -projektet i [!DNL Android Studio]
+* Skapa en ny java-klass med namnet *MainApp* som utökar [!DNL android.app.Application]
 * Projektstrukturen bör nu se ut så här
 
 ![huvudprogram](assets/android-main-app.PNG)
 
-* Expandera [!DNL Gradle Scripts] mapp. Dubbelklicka på [!DNL build.gradle] för modulen. Klistra in följande beroenden i beroendeavsnittet i [!DNL build.gradle] -fil. Dina [!DNL build.gradle] filen ska nu se ut så här
+* Expandera mappen [!DNL Gradle Scripts]. Dubbelklicka på [!DNL build.gradle] i modulen. Klistra in följande beroenden i beroendeavsnittet i filen [!DNL build.gradle]. Filen [!DNL build.gradle] ska nu se ut så här
 
 <!--
 Removed `{.line-numbers}` below
@@ -39,9 +39,9 @@ implementation 'com.adobe.marketing.mobile:userprofile:1.+'
 implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 ```
 
-![modul-gradle](assets/module-build-gradle.PNG)
+![module-gradle](assets/module-build-gradle.PNG)
 
-* Synkronisera [!DNL Android] genom att klicka på knappen Synkronisera nu för att synkronisera ditt projekt
+* Synkronisera ditt [!DNL Android]-projekt genom att klicka på knappen Synkronisera nu för att synkronisera ditt projekt
 
 ## Ändra [!DNL AndroidManifest.xml]{#modify-android-manifest}
 
@@ -59,7 +59,7 @@ Removed `{.line-numbers}` below
 Kopiera följande rad i elementet application
 [!DNL android:name=".MainApp"]
 Spara [!DNL AndroidManifest.xml]
-Dina [!DNL AndroidManifest.xml] ser ut så här
+[!DNL AndroidManifest.xml] ska se ut så här
 
 <!--
 Removed `{.line-numbers}` below

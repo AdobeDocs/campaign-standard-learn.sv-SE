@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 18%
+ht-degree: 22%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 18%
 
 Lär dig hur du konfigurerar och använder sändningsmallen för att nå alla användare i din mobilapp.
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/26199?learn=on){transcript=true}

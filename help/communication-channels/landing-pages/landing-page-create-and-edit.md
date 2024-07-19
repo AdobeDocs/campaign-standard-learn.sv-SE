@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 15%
+source-wordcount: '81'
+ht-degree: 19%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 15%
 
 Med Adobe Campaign kan ni skapa landningssidor som är onlineformulär som kan användas för att samla in information om era målgrupper, erbjuda prenumerationer på en tjänst, visa data och utöka databasen. Landningssidor kan också användas för att hämta eller uppdatera befintliga profiler.
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
 
 ## Ytterligare resurser
 

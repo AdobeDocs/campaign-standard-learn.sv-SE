@@ -13,8 +13,8 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 22%
+source-wordcount: '94'
+ht-degree: 30%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 22%
 
 Lär dig hur du kontrollerar status för ett dataöverföringsjobb och om data har importerats från Adobe Campaign Standard till Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27268?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27268?learn=on){transcript=true}
 
 ## Ytterligare resurser
 

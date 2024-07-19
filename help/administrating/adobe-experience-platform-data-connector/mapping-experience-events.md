@@ -12,12 +12,12 @@ team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 11%
+source-wordcount: '60'
+ht-degree: 18%
 
 ---
 
-# Mappning [!UICONTROL Experience Events]
+# Mappar [!UICONTROL Experience Events]
 
 >[!NOTE]
 >
@@ -25,9 +25,9 @@ ht-degree: 11%
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
-Lär dig mappa [!UICONTROL Experience Events] i Adobe Experience Platform (AEP).
+Lär dig hur du mappar [!UICONTROL Experience Events] i Adobe Experience Platform (AEP).
 
->[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
 
 ## Ytterligare resurser
 

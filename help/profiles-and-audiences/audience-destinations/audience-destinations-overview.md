@@ -14,23 +14,23 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '117'
 ht-degree: 6%
 
 ---
 
-# [!UICONTROL Audience Destinations] (BETA) - Översikt
+# [!UICONTROL Audience Destinations] (BETA) - översikt
 
 ## Använda Adobe Experience Platform-målgrupper i Adobe Campaign Standard
 
 >[!NOTE]
 >
->Funktionen är i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] är baserat på Adobe Experience Platform och kräver en specifik konfiguration.
+>Funktionen är i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] baseras på Adobe Experience Platform och kräver en specifik konfiguration.
 >
 >Nå ut till [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 >
 
-Med modulen Publiker i Adobe Campaign Standard kan du skapa segment med hjälp av data från Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+Med hjälp av modulen Publiker i Adobe Campaign Standard kan du skapa segment med hjälp av data från Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 I följande videofilmer får du hjälp med de olika stegen:
 

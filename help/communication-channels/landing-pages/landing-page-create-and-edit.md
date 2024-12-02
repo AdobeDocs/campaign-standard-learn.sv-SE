@@ -1,6 +1,6 @@
 ---
 title: Skapa och redigera en landningssida
-description: "Lär dig hur du skapar, redigerar och testar landningssidor i Adobe Campaign Standard."
+description: Lär dig hur du skapar, redigerar och testar landningssidor i Adobe Campaign Standard.
 feature: Landing Pages
 jira: KT-1808
 thumbnail: 24093.jpg
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 19%
+source-wordcount: '79'
+ht-degree: 17%
 
 ---
 

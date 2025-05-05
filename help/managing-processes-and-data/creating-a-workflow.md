@@ -30,4 +30,4 @@ I den här videon visas hur du skapar och redigerar ett arbetsflöde i Adobe Cam
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
 
-Mer information om [Skapa ett arbetsflöde (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html) finns i produktdokumentationen
+Mer information om [Skapa ett arbetsflöde (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=sv-SE) finns i produktdokumentationen

@@ -29,4 +29,4 @@ Lär dig hur du mappar olika datatyper mellan Adobe Campaign Standard och Adobe 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
 
-Mer information om [Mappningsdefinitionen](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) finns i produktdokumentationen.
+Mer information om [Mappningsdefinitionen](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=sv-SE) finns i produktdokumentationen.

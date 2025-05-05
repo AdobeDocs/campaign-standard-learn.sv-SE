@@ -25,4 +25,4 @@ Lär dig hur du definierar segment i ditt arbetsflöde och hur du använder dem 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=sv-SE)

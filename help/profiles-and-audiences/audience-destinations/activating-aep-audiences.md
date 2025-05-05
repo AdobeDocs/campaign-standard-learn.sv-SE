@@ -33,4 +33,4 @@ I den här videon förklaras hur du aktiverar [!UICONTROL Data Services Query Au
 
 *Aktivera en Adobe Experience Platform-målgrupp i ett arbetsflöde (02:37 min)*
 
-Läs produktdokumentationen om hur du [importerar Adobe Experience Platform-målgrupper till Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+Läs produktdokumentationen om hur du [importerar Adobe Experience Platform-målgrupper till Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=sv-SE)

@@ -28,4 +28,4 @@ I videofilmerna nedan visas de steg som krävs för att konfigurera en mobilapp 
 
 >[!NOTE]
 >
->I [Konfigurera ditt program i [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) finns detaljerad dokumentation och kodmallar som används i videon.
+>I [Konfigurera ditt program i [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=sv-SE) finns detaljerad dokumentation och kodmallar som används i videon.

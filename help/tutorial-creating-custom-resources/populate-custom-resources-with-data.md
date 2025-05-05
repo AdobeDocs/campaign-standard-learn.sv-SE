@@ -21,4 +21,4 @@ Lär dig hur du fyller i anpassade resurser med data från en [!DNL CSV]-fil med
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
 
-Mer information om hur du fyller i anpassade resurser via en [!DNL API] finns i dokumentationen: [Samverka med anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).
+Mer information om hur du fyller i anpassade resurser via en [!DNL API] finns i dokumentationen: [Samverka med anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=sv-SE).

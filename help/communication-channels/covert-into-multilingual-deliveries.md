@@ -23,4 +23,4 @@ I den här videon visas hur ett befintligt e-postmeddelande, en SMS-leverans ell
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-Mer information om att [skapa ett flerspråkigt e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en) finns i produktdokumentationen.
+Mer information om att [skapa ett flerspråkigt e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=sv-SE) finns i produktdokumentationen.

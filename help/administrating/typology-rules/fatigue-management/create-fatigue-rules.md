@@ -28,4 +28,4 @@ Om du vill skapa [!UICONTROL fatigue rules] måste du definiera ett maximalt ant
 
 ## Ytterligare resurser
 
-* [Trötthetsregler (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
+* [Trötthetsregler (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html?lang=sv-SE)

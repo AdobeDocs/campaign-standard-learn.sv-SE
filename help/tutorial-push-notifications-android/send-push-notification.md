@@ -32,5 +32,5 @@ Om allt blir bra bör du se ett meddelande i din Android™-app som körs i emul
 
 ## Ytterligare resurser
 
-* [Detaljerad dokumentation om push-meddelanden](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
+* [Detaljerad dokumentation om push-meddelanden](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=sv-SE)
 * [Skapa ett push-meddelande (video)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

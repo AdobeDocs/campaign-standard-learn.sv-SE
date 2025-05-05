@@ -31,4 +31,4 @@ Kanalen är tillgänglig från startsidan och i arbetsflödesvyn för att defini
 
 ![Arbetsflödesbild](/help/assets/direct_mail_examplewf.png)
 
-Läs produktdokumentationen om du vill veta mer om [Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Läs produktdokumentationen om du vill veta mer om [Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=sv-SE)

@@ -27,4 +27,4 @@ I den här videon förklaras hur du skapar en rapport baserad på anpassade prof
 
 ## Ytterligare resurser
 
-* [Om rapportering](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [Om rapportering](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=sv-SE)

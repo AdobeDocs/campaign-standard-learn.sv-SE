@@ -29,4 +29,4 @@ Lär dig hur du mappar startdata och testprofiler med Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){transcript=true}
 
-Mer information om [mappningsdefinitionen](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) och [mappningsaktiveringen](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html) finns i produktdokumentationen.
+Mer information om [mappningsdefinitionen](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=sv-SE) och [mappningsaktiveringen](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=sv-SE) finns i produktdokumentationen.

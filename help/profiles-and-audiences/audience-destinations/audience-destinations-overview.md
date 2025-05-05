@@ -30,7 +30,7 @@ ht-degree: 6%
 >Nå ut till [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 >
 
-Med hjälp av modulen Publiker i Adobe Campaign Standard kan du skapa segment med hjälp av data från Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+Med hjälp av modulen Publiker i Adobe Campaign Standard kan du skapa segment med hjälp av data från Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=sv-SE).
 
 I följande videofilmer får du hjälp med de olika stegen:
 

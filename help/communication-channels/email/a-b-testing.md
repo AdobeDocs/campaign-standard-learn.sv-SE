@@ -25,4 +25,4 @@ Lär dig hur du konfigurerar och skickar ett A/B-test för att testa ämnesraden
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
-Mer information om hur du testar innehållet eller avsändaren finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html).
+Mer information om hur du testar innehållet eller avsändaren finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=sv-SE).

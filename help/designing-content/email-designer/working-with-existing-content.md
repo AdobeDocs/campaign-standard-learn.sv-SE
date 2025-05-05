@@ -31,4 +31,4 @@ För e-post-Designer krävs specifik taggning, som måste användas för att sta
 
 Du hittar detaljerad dokumentation under följande länk:
 
-[Konverterar HTML-innehåll till en Designer-mall för e-post](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Konverterar HTML-innehåll till en Designer-mall för e-post](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=sv-SE)

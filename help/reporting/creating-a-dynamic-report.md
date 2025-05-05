@@ -27,4 +27,4 @@ Lär dig hur du skapar en rapport.
 
 ## Ytterligare resurser
 
-* [Om rapportering](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [Om rapportering](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=sv-SE)

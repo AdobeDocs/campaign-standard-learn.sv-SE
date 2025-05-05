@@ -140,4 +140,4 @@ Dela upp processen i två fokusområden: a) skicka mönster för e-post och b) d
 
 Titta på vårt [webbinarium](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/) om du vill se en sammanfattning av den här artikeln och en live demonstration av implementering av strategier för återengagemang.
 
-Läs mer om strategi och tankeledarskap på navet [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Läs mer om strategi och tankeledarskap på navet [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=sv-SE).

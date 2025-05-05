@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Läs om hur du skapar en utlösarhändelse i Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446413?learn=on&captions=swe){transcript=true}

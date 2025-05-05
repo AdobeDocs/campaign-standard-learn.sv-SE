@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Lär dig hur du löser felet ”GetAEMContentList” för tjänsten ”nms:delivery” när du ansluter från Campaign Standard till Experience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/335897?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436880?learn=on&captions=swe){transcript=true}

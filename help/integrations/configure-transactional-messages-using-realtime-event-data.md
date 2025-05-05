@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Läs om hur du konfigurerar transaktionsmeddelanden med realtidshändelsedata som kommer från utlösare.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450206?learn=on&captions=swe){transcript=true}

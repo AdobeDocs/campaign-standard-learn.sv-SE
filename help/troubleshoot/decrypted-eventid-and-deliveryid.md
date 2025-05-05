@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Lär dig hur du får ett dekrypterat händelse-ID och leverans-ID i Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437891?learn=on&captions=swe){transcript=true}

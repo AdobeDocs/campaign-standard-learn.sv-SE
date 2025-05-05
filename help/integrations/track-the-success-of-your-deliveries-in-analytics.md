@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Läs om hur du konfigurerar integreringen mellan Campaign Standard och Analytics. Förstå hur du skapar en rapport i Analytics med data som tagits emot från Campaign Standard och vilka nyckeltal som är tillgängliga.
 
->[!VIDEO](https://video.tv.adobe.com/v/332576/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449044/?learn=on&captions=swe){transcript=true}
 
 Mer information om produktguiden i Adobe Analytics finns i [Förstå och skapa rapportsviter](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=sv#intro-to-analytics).

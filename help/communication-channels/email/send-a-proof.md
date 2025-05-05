@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Lär dig hur du testar ett e-postmeddelande innan du skickar det till de slutliga mottagarna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446219/?learn=on&captions=swe){transcript=true}

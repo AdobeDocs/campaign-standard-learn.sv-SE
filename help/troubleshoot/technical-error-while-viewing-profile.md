@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Lär dig hur du felsöker ett tekniskt fel som inträffar när du visar en profil i Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/335890?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436600?learn=on&captions=swe){transcript=true}

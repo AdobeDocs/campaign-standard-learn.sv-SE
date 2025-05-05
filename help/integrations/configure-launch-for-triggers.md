@@ -26,4 +26,4 @@ Lär dig hur du använder Adobe Experience Platforms datasamling och lägger til
 >
 > Observera att Launch är nu taggfunktionen i Adobe Experience Platform. Den finns under **Adobe Experience Platforms datasamlingar**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454020?learn=on&captions=swe){transcript=true}

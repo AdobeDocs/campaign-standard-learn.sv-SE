@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Läs om hur du konfigurerar utlösare i Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446142?learn=on&captions=swe){transcript=true}

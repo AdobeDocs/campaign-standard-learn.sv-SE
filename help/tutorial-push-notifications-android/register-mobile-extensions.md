@@ -70,6 +70,6 @@ try{
 }
 ```
 
-Rad 32 måste du ange [!UICONTROL  Launch]-egenskapens miljöfil-ID. Den här informationen kan nås från [!UICONTROL environment tab] för din [!UICONTROL Launch]-egenskap.
+Rad 32 måste du ange [!UICONTROL &#x200B; Launch]-egenskapens miljöfil-ID. Den här informationen kan nås från [!UICONTROL environment tab] för din [!UICONTROL Launch]-egenskap.
 
 ![launch-id](assets/launch-id-property.PNG)

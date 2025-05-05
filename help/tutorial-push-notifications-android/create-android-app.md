@@ -59,7 +59,7 @@ När appen har integrerats med Firebase bör du få ett meddelande som det som v
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Kontrollera att ditt projekt finns med i listan i [!DNL Firebase ]konsolen](https://console.firebase.google.com/)
+[Kontrollera att ditt projekt finns med i listan i [!DNL Firebase &#x200B;]konsolen](https://console.firebase.google.com/)
 
 ## Konfigurera inställningar för [!UICONTROL Push Channel]
 
